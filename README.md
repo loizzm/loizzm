@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz Miguel</h1>
 <h3 align="center">Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Frameworks**
 
 - 📫 How to reach me **ireliontt@gmail.com**
 
